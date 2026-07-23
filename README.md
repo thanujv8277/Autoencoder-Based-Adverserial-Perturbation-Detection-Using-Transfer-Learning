@@ -73,6 +73,25 @@ pip install -r perturbo/perturbo_streamlit/requirements.txt
 streamlit run perturbo/perturbo_streamlit/app.py
 ```
 
+## Screenshots
+### Dashboard Home
+![Dashboard Home](assets/screenshots/dashboard.jpeg)
+
+### Predictions Overview
+![Predictions Overview](assets/screenshots/predictions-overview.jpeg)
+
+### SHAP Analysis
+![SHAP Analysis](assets/screenshots/shap-analysis.jpeg)
+
+### Counterfactual Explanations
+![Counterfactual Explanations](assets/screenshots/counterfactuals.jpeg)
+
+### LIME Local Explanation
+![LIME Local Explanation](assets/screenshots/lime-local-explanation.jpeg)
+
+### Uncertainty and Calibration
+![Uncertainty and Calibration](assets/screenshots/calibration.jpeg)
+
 ## Future Improvements
 - Add Git LFS support for large model artifacts
 - Improve README with screenshots and sample outputs
