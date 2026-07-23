@@ -92,12 +92,6 @@ streamlit run perturbo/perturbo_streamlit/app.py
 ### Uncertainty and Calibration
 ![Uncertainty and Calibration](assets/screenshots/calibration.jpeg)
 
-## Future Improvements
-- Add Git LFS support for large model artifacts
-- Improve README with screenshots and sample outputs
-- Add clearer experiment tracking and metrics summaries
-- Containerize deployment with Docker
-- Expand the dataset and adversarial attack coverage
 
 ## Summary
 This project demonstrates how transfer learning, feature engineering, and machine learning can be combined to build a practical adversarial perturbation detection system for review text. It serves both as a research-oriented experiment pipeline and as a deployable application for interactive testing.
